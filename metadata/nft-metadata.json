@@ -1,0 +1,32 @@
+{
+  "name": "Wego NFT #1",
+  "description": "A unique pixel-art ape NFT wearing a jeweled golden crown, black sunglasses, and a dark hoodie.",
+  "image": "https://maroon-biological-crayfish-607.mypinata.cloud/ipfs/bafybeiem2342tkg7b2c7l547gafwj6s74b6l6lx27oo7je4xmtbpvbt4oy",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Crowned Ape"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Pixel Art"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Golden Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black Sunglasses"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Hoodie"
+    }
+    
+  ]
+}
